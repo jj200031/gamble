@@ -1,0 +1,5 @@
+gamblev\jaxson\gvutils\commands\bukkit\BukkitCommand.class
+gamblev\jaxson\gvutils\commands\bungee\BungeeCommand.class
+gamblev\jaxson\gvutils\GambleVerseCore.class
+gamblev\jaxson\gvutils\commands\Command.class
+gamblev\jaxson\gvutils\commands\bukkit\impl\LobbyBukkitCommand.class

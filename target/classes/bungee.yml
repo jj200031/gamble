@@ -1,0 +1,9 @@
+name: "GambleVerseCore"
+version: 1.0-SNAPSHOT
+main: gamblev.jaxson.gvutils.main.GambleVerseCoreBungee
+authors: [
+  "ItsLaivy (DanielZinh#7616)",
+  "ImUniverseBaka (UniverseBaka#9843",
+  "Jaxson(jaxson#9021)"
+]
+api-version: 1.19

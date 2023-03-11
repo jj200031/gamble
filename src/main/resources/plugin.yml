@@ -1,0 +1,12 @@
+name: "GambleVerseCore"
+version: ${project.version}
+main: gamblev.jaxson.gvutils.main.GambleVerseCoreBukkit
+authors: [
+  "ItsLaivy (DanielZinh#7616)",
+  "ImUniverseBaka (UniverseBaka#9843",
+]
+api-version: 1.19
+
+commands:
+  "lobby":
+    description: "The lobby command"
